@@ -6,6 +6,7 @@
             height: 100vh;
             margin: 0;
             background-image: url('background.jpg')
+            background-color:black;        
             flex-direction: column;
         }
         .container {
