@@ -1,6 +1,6 @@
 
         let players = [];
-        const colors = ["red", "blue", "green", "cyan", "purple", "orange", "pink", "lime", "teal", "magenta"];
+        const colors = ["red", "blue", "green", "orange", "purple", "cyan", "pink", "lime", "teal", "magenta"];
 
         const inputframe = document.getElementById('input-frame');
         
