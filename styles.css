@@ -5,8 +5,7 @@
             align-items: center;
             height: 100vh;
             margin: 0;
-            background-image: url('background.jpg');
-            background-color:black;        
+            background-color:white;        
             flex-direction: column;
         }
         .container {
